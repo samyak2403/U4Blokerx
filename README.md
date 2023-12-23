@@ -5,7 +5,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/samyak2403/U4BlokerOrg)
 
 
-![App Screenshot](https://github.com/samyak2403/U4Blokerx/assets/126759819/7943414b-4959-4f0d-96ec-5dbeb1449b6e))
+<img src="https://github.com/samyak2403/U4Blokerx/assets/126759819/7943414b-4959-4f0d-96ec-5dbeb1449b6e" alt="App Screenshot" width="300">
 
 
 
