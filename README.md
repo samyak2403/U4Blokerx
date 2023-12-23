@@ -6,6 +6,7 @@
 
 
 ![App Screenshot](https://github.com/samyak2403/U4BlokerOrg/assets/126759819/eb7de808-3654-465b-8f6d-f37c749e79c6)
+![Firefox_logo](https://github.com/samyak2403/U4Blokerx/assets/126759819/7943414b-4959-4f0d-96ec-5dbeb1449b6e)
 
 
 ## Description
