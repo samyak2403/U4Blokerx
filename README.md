@@ -2,6 +2,7 @@
 
 ![App Screenshot](https://github.com/samyak2403/U4BlokerOrg/assets/126759819/eb7de808-3654-465b-8f6d-f37c749e79c6)
 
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/samyak2403/U4BlokerOrg)
 
 
 ## Description
